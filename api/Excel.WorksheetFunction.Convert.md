@@ -74,6 +74,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 |Force|From_unit or to_unit |
 |:-----|:-----|
+|Kilonewton|"kN"|
 |Newton|"N"|
 |Dyne|"dyn" (or "dy")|
 |Pound force|"lbf"|
